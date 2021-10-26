@@ -3,10 +3,10 @@ Random Message Generator which produces a random "Unusual" word of the day &amp;
 
 ##Outline:
 
-JavaScript program which will generate a new 'unusual' random word and it's definition everytime the program is run. 
-This will be based in the command line initially only and hoepfully will look to move this into the browser. 
+JavaScript program which will generate a new 'unusual' random word and definition supposedly based on your name (although this actually has no impact but I introduced for some interactivity). 
+
+This will be based in the command line.
 
 ##How to use:
-1. run the code - get a randomised "unusual word" and it's potentially "unusual" definition. That's it! 
-
-*Will look to incorporate a "Try again" button or option so this can easilly be repeated.  
+1. run the code - enter your name and press enter. 
+2. Enjoy your random word for the day.   
