@@ -1,7 +1,8 @@
 # mixedMessagesWordOfTheDay
 Random Message Generator which produces a random "Unusual" word of the day &amp; it's definition. 
 
-##Outline
+##Outline:
+
 JavaScript program which will generate a new 'unusual' random word and it's definition everytime the program is run. 
 This will be based in the command line initially only and hoepfully will look to move this into the browser. 
 
